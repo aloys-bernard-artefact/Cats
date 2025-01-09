@@ -10,8 +10,11 @@ def subtract(num1,num2):
 
 def multiply(num1,num2):
     #TODO: Implement this method
-    pass
+    return num1 * num2
 
 def divide(num1,num2):
     # TODO: Implement this method
-    pass
+    if num2==0
+        return 0
+    return num1 / num2
+    
