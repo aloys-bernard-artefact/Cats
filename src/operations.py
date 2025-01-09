@@ -5,7 +5,8 @@ def add(num1,num2):
 
 def subtract(num1,num2):
     #TODO: Implement this method
-    pass
+    diff = num1 - num2
+    return diff
 
 def multiply(num1,num2):
     #TODO: Implement this method
